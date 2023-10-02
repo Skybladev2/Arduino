@@ -7,3 +7,4 @@
 * https://easyeda.com - создание схем печатных плат
 * https://www.kicad.org/ - создание схем печатных плат
 * https://www.lcsc.com/ - компоненты
+* https://www.snapeda.com/ - компоненты
